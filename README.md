@@ -8,4 +8,4 @@ Para poder ejecutar correctamente el código de deberá de descargar la informac
 Deberá tener la siguiente estructura para poder ejecutar correctamente los notebooks:
 
 ![Files](/images/captura.PNG)
-Format: ![Alt Text](url)
+
