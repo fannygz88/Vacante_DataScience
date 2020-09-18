@@ -7,4 +7,4 @@ Para poder ejecutar correctamente el código de deberá de descargar la informac
 
 Deberá tener la siguiente estructura para poder ejecutar correctamente los notebooks:
 
-![FIles](./images/captura.png)
+![FIles](/images/captura.PNG)
