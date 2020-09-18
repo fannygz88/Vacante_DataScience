@@ -1,7 +1,7 @@
 # Vacante DataScience
 Cases using Python, PySpark, a lot of imagination and creativity.
 
-Guía de uso
+# Guía de uso
 
 Para poder ejecutar correctamente el código de deberá de descargar la información referida en el archivo de la prueba.
 
