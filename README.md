@@ -9,3 +9,7 @@ Deberá tener la siguiente estructura para poder ejecutar correctamente los note
 
 ![Captura](https://user-images.githubusercontent.com/56488274/93558189-7a1b7900-f942-11ea-8d44-15f7b44b003b.PNG)
 
+![captura2](https://user-images.githubusercontent.com/56488274/93558433-0fb70880-f943-11ea-8709-08236689d6f4.PNG)
+
+
+
