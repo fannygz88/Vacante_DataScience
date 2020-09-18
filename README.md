@@ -7,5 +7,5 @@ Para poder ejecutar correctamente el código de deberá de descargar la informac
 
 Deberá tener la siguiente estructura para poder ejecutar correctamente los notebooks:
 
-![Files](/images/captura.PNG)
+![Files](https://github.com/fannygz88/Vacante_DataScience/tree/master/images/Captura.PNG)
 
